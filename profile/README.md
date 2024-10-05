@@ -1,4 +1,4 @@
-# Gnoverse Community
+# Gnoverse Community 🧙
 
 Welcome to the Gnoverse, a collaborative space for experimental and innovative projects inspired by the [Gno.land](https://gno.land) ecosystem.
 Here, we incubate and develop ideas that push the boundaries of what Gno can achieve.
